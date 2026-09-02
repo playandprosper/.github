@@ -13,7 +13,7 @@ This repository provides technology solutions that are used to power the [playan
 ### Topobuilder
 
 <details>
-<summary>**Topbouilder Repository:** https://github.com/playandprosper/topobuilder</summary>
+<summary><b>Topbouilder Repository:</b> https://github.com/playandprosper/topobuilder</summary>
 
 **Price:** $88/mo via [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) 
 
@@ -27,7 +27,7 @@ This product has been used in production since 2024.
 ### PHP AVC
 
 <details>
-<summary>**PHP AVC Repository:** https://github.com/playandprosper/php-avc</summary>
+<summary><b>PHP AVC Repository:</b> https://github.com/playandprosper/php-avc</summary>
 
 **Price:** $369/mo (Personal) or $777/mo (Commercial) via [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) 
 
@@ -41,7 +41,7 @@ This product has been used in production since PHP 5 in the summer of 2014.
 ### i18n
 
 <details>
-<summary>**i18n Repository:** https://github.com/playandprosper/i18n</summary>
+<summary><b>i18n Repository:</b> https://github.com/playandprosper/i18n</summary>
 
 **Price:** $666/mo (Private) via [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu)
 
