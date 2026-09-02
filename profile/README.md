@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-1. **Play and Prosper** &mdash; Parent Entity &mdash; `playandprosper`
+1. **Play and Prosper** &mdash; Parent Entity &mdash; https://linkedin.com/in/andrei-merlescu 
 2. **Friends of Play and Prosper, LLC** &mdash; Non-Profit Organization &mdash; https://www.playandprosper.health/
 3. **Play and Prosper Therapy, PLLC** &mdash; Pediatric Hippotherapy Therapy Practice &mdash; https://playandprospertherapy.com/ 
 
