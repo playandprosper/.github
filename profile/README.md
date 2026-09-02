@@ -4,21 +4,42 @@ Play and Prosper Therapy provides pediatric Occupational Therapy, Physical Thera
 
 ## PROFESSIONAL SUMMARY
 <details>
-  <summary>I design and operate infrastructure that saves money at scale and ships software faster. I utilize evidence and data to backup my decisions and justification. I am willing to learn, adapt and grow.</summary>
+  <summary>I joined GitHub as user 91,485 in 2009. I've been around for a while. I have three products for sale.</summary>
 <br>
 
-I am a **Computer Engineer** which means that I spent my college years building electric circuits and programming hardware microcontrollers for embedded technologies and robotics.  I'm not a _computer science_ engineer and nor was I trained in that profession. I always viewed **Computer _Engineering_** to be _harder than **Computer Science**_. In 2026, the profession of _software engineering_ has been supplemented with AI powered **Computer Engineering**!
+### Topobuilder
 
-I project myself professionally, love teaching others and especially building systems that solve complex problems. I support **women in tech** and volunteered as an instructor for RailsGirlsRDU 2014. I helped coach a grou of ambitious women who wanted to learn programming by building `rails new twitter` clone and making it their own. I have demonstrated a talent for teaching since childhood including a _teaching assistant_ in college. 
+**Topbouilder Repository:** https://github.com/playandprosper/topobuilder
 
-Diversity is important. Diversity of thought. Diversity of culture. Diversity of backgrounds. I survived Ceaușescu's orphanages in Romania and have spent my entire career collaborating with people from around the world on various technical challenges. I reject _monoculture_ and _egotism_. 
+**Price:** $88/mo via [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) 
 
-Every company that I have professionally worked with has **called me**. _They sought me out and I chose them._ I am forward thinking, business oriented, and conscious of time and money being spent. I **own without ego** and I aspire for **engineering excellency** in everything that I work on - whether its process oriented or technical in nature. _Just because you may get to interview me, does not mean that you may get to work with me. I need to interview **your company too**._
+This **Go** binary takes a PHP website and containerizes it. It builds an Infrastructure as Code template for the web application and load balancer, then deploys it to AWS.
 
-I have one copyrighted work that is called [My Best Friend](/MY-BEST-FRIEND.md) that is available to read _here for free_ if you are interested. It's about my dog named Klaus.
+This product has been used in production since 2024.
+
+### PHP AVC
+
+**PHP AVC Repository:** https://github.com/playandprosper/php-avc
+
+**Price:** $369/mo (Personal) or $777/mo (Commercial) via [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) 
+
+This **PHP** repository is designed to work with Apache, MySQL and Linux (LAMP). It uses PropelORM and runs on PHP 8.5. It's used to rapidly build out web applications either by hand or with AI. It's been in production websites for over 11 years and will become open source under the Apache 2.0 license on 11/11/2033.
+
+This product has been used in production since PHP 5 in the summer of 2014.
+
+### i18n
+
+**i18n Repository:** https://github.com/playandprosper/i18n
+
+**Price:** $666/mo (Private) via [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu)
+
+This **Go** binary is designed to work alongside **Local AI** to render 22 translations and 17 speakables using [LMStudio](http://lmstudio.ai/) and [Voicebox](https://github.com/jamiepine/voicebox). It compiles into a `db/i18n-db.json` and `db/audio/*.wav` that can serve tens of thousands of keys to tens of thousands of concurrent users under a [lemmings](https://github.com/andreimerlescu/lemmings) stateful load test. 
+
+This product has been used in production since 2026. 
+
 </details>
 
-I joined GitHub as user 91,485 in 2009. I've been around for a while. I have three products for sale.
+
 
 
 | Product | Since | Notes |
