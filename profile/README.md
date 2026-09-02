@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 1. **Play and Prosper** &mdash; Parent Entity &mdash; `playandprosper`
-2. **Friends of Play and Prosper, LLC** &mdash; Non-Profit Organization
-3. **Play and Prosper Therapy, PLLC** &mdash; Pediatric Hippotherapy Therapy Practice
+2. **Friends of Play and Prosper, LLC** &mdash; Non-Profit Organization &mdash; https://www.playandprosper.health/
+3. **Play and Prosper Therapy, PLLC** &mdash; Pediatric Hippotherapy Therapy Practice &mdash; https://playandprospertherapy.com/ 
 
 This repository provides technology solutions that are used to power the [playandprosper.app](https://playandprosper.app) experience. You can sponsor the development of this technology via the [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) page. 
 
