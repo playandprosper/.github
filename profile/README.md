@@ -9,7 +9,6 @@ This repository provides technology solutions that are used to power the [playan
 ## PROFESSIONAL SUMMARY
 <details>
   <summary>I joined GitHub as user 91,485 in 2009. I've been around for a while. I have three products for sale.</summary>
-<br>
 
 ### Topobuilder
 
@@ -21,6 +20,8 @@ This **Go** binary takes a PHP website and containerizes it. It builds an Infras
 
 This product has been used in production since 2024.
 
+---
+
 ### PHP AVC
 
 **PHP AVC Repository:** https://github.com/playandprosper/php-avc
@@ -30,6 +31,8 @@ This product has been used in production since 2024.
 This **PHP** repository is designed to work with Apache, MySQL and Linux (LAMP). It uses PropelORM and runs on PHP 8.5. It's used to rapidly build out web applications either by hand or with AI. It's been in production websites for over 11 years and will become open source under the Apache 2.0 license on 11/11/2033.
 
 This product has been used in production since PHP 5 in the summer of 2014.
+
+---
 
 ### i18n
 
