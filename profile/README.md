@@ -6,7 +6,7 @@
 
 This repository provides technology solutions that are used to power the [playandprosper.app](https://playandprosper.app) experience. You can sponsor the development of this technology via the [GitHub Sponsorship](https://github.com/sponsors/andreimerlescu) page. 
 
-![Visitors](https://counthis.app/g/iblxa22xzx6hk6cw)
+![Visitors](https://counthis.app/github?user=playandprosper)
 
 ## PROFESSIONAL SUMMARY
 <details>
